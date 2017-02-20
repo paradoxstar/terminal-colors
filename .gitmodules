@@ -1,0 +1,15 @@
+[submodule "snazzy-gnome"]
+	path = snazzy-gnome
+	url = https://github.com/tobark/hyper-snazzy-gnome-terminal.git
+[submodule "solarized-gnome"]
+	path = solarized-gnome
+	url = https://github.com/Anthony25/gnome-terminal-colors-solarized.git
+[submodule "guake-solarized"]
+	path = solarized-guake
+	url = https://github.com/coolwanglu/guake-colors-solarized.git
+[submodule "solarized-iterm"]
+	path = solarized-iterm
+	url = https://github.com/conghui/iterm2-color-solarized.git
+[submodule "solarized-terminator"]
+	path = solarized-terminator
+	url = https://github.com/ghuntley/terminator-solarized.git
