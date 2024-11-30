@@ -9,7 +9,7 @@
 	url = https://github.com/coolwanglu/guake-colors-solarized.git
 [submodule "solarized-iterm"]
 	path = solarized-iterm
-	url = https://github.com/conghui/iterm2-color-solarized.git
+	url = https://github.com/paradoxstar/solarized-iterm.git
 [submodule "solarized-terminator"]
 	path = solarized-terminator
 	url = https://github.com/ghuntley/terminator-solarized.git
